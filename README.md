@@ -8,3 +8,5 @@ On the side, I was also learning my way around the kitchen which of course inclu
 “Why not make something calculate the angle for you?” rightly spoke the engineer in the back of my mind. “All I needed was to display the tilt of the knife somehow, it will be a fun warmup!”
 
 The project lasted from the April 20th 2021 to the October 11th 2021: total project time 15 days and .72 hours.
+
+Heads up. I am not a good essay writer, so kindly forgive any amature mistakes.
